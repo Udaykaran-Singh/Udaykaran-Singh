@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Uday ✨:
 🔭 I'm currently working on<br>• Strengthening Data Structures & Algorithms with consistent LeetCode practice<br>• Building machine learning and NLP projects using Python<br><br>👯 I'm looking to collaborate on<br>• Open-source ML / NLP projects<br>• Algorithmic problem-solving and competitive programming repositories<br>• Data-driven projects with real-world datasets<br><br>🤝 I'm looking for help with<br>• Designing scalable ML pipelines<br>• Writing cleaner, more optimized C++ and Python code<br><br>🌱 I'm currently learning<br>• Advanced DSA (graphs, DP, optimization techniques)<br>• Machine Learning model evaluation and optimization<br>• NLP pipelines and security-focused ML concepts<br><br>💬 Ask me about<br>• Data Structures & Algorithms<br>• LeetCode strategies and consistency<br>• Machine Learning and NLP fundamentals<br>• Python & C++ for efficient problem solving<br><br>⚡ Fun fact<br>• Solved 260+ LeetCode problems and maintained a 100-day daily problem-solving streak<br>
 
 
